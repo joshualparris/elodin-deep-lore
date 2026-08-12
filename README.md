@@ -1,11 +1,11 @@
-# ElodinDeepLore
+# Kingkiller Lore Atlas — Elodin Module
 
-A deep lore compendium focused entirely on **Elodin** — Master Namer, former Chancellor, escapee of the Rookery, and the most dangerous man at the University.
+A deep lore compendium focused entirely on **Elodin** — Master Namer, former Chancellor, escapee of the Rookery, and the most dangerous man at the University, prepared as part of the broader Kingkiller Lore Atlas architecture.
 
 ## Structure
 
 ```
-ElodinDeepLore/
+KingkillerLoreAtlas/
 ├── README.md                        ← This file
 ├── ELODIN_COMPLETE_LORE.md          ← The master compendium (all canon + theory)
 ├── ELODIN_PDF_SCENES.md             ← Raw scene extracts from Name of the Wind PDF
